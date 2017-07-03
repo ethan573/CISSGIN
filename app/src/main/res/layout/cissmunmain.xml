@@ -15,7 +15,7 @@
         android:layout_height="55dp"
         android:layout_marginBottom="8dp"
         android:background="#193453"
-        android:text="CISSMUN IX"
+        android:text="CISSMUN"
         android:textAlignment="center"
         android:textColor="#FFFFFF"
 
